@@ -1,2 +1,3 @@
-Hello, Git.
-나는 게임을 하지 않아!
+1. Committed : 안전하게 저장되어있는 상태
+2. Modified : 수정된 상태
+3. Staged : 곧 커밋하겠다는 상태
